@@ -27,21 +27,20 @@
 # else:
 #     print(False)
 
-a = int(input("enter a:"))
-b = int(input("enter b:"))
-c = int(input("enter c:"))
+# a = int(input("enter a:"))
+# b = int(input("enter b:"))
+# c = int(input("enter c:"))
 
-if abs(a-b) <=1:
-    if abs(a-c)>=2 and abs(b-c)>=2:
-        print(True)
-    else: 
-        print(False)
-elif abs(a-c) <=1:
-    if abs(a-b)>=2 and abs(c-b)>=2:
-        print(True)
-    else:
-        print(False)
-else:
-     print(False)
+# if abs(a-b) <=1:
+#     if abs(a-c)>=2 and abs(b-c)>=2:
+#         print(True)
+#     else: 
+#         print(False)
+# elif abs(a-c) <=1:
+#     if abs(a-b)>=2 and abs(c-b)>=2:
+#         print(True)
+#     else:
+#         print(False)
+# else:
+#      print(False)
 
-    
