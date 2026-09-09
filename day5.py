@@ -39,5 +39,74 @@
 #     print(i)
 
 # n=int(input("enter num="))
+# for i in range(2,n+1,2):
+#      print(i)
+
+# n=int(input("Enter a Num="))
 # print("even numbers are:")
-# for i in range(2,n+1,2)
+# for i in range(2,n,2):
+#     print(i)
+# print("odd numbers are:")
+# for i in range(1,n,2):
+#     print(i)
+
+# n=int(input("Enter a Num="))
+# count=0
+# for i in range(2,n+1,2):
+#     count=count+1
+# print(count)
+
+# n=int(input("Enter a Num="))
+# count=0
+# for i in range(1,n+1):
+#     if i%2==0:
+#      count=count+1
+# print(count)
+
+# n=int(input("Enter a Num="))
+# count=0
+# for i in range(1,n+1):
+#     if i%2!=0:
+#      count=count+1
+# print(count)
+
+# n=int(input("Enter a Num:"))
+# sum=0
+# for i in range(1,n+1):
+#     sum=sum+i
+# print(sum)
+
+# n=int(input("Enter a Num="))
+# sum=0
+# for i in range(1,n+1):
+#     if i%2==0:
+#         sum=sum+i
+# print(sum)
+
+# n=int(input("Enter a Num="))
+# sum=0
+# for i in range(1,n+1):
+#     if i%2!=0:
+#         sum=sum+i
+# print(sum) 
+
+# n=int(input("ENter a NUM="))
+# factorial=1
+# for i in range(1,n+1):
+#     factorial=factorial*i
+# print(factorial)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
