@@ -26,13 +26,46 @@
 #     print(b)
 
 # n=int(input("Enter a Num="))
-# biggest_number=0
+# largest=0
 # for i in range(1,n+1):
-#     b=int(input("enter numbers:"))
-#     if b>biggest_number:
-#         biggest_number=b
-# print(biggest_number)
+#     num=int(input("enter numbers:"))
+#     if num>largest:
+#         largest=num
+# print(largest)
 
+# n=int(input("Enter a Num="))
+# count=0
+# for i in range(2,n):
+#     if n%i==0:
+#         count=count+1
+# if count==0:
+#     print("is a prime number")
+# else:
+#     print("not a prime number")
+
+# n=int(input("Enter a number="))
+# for i in range(1,n+1):
+#     print(i*"$")
+
+# n=int(input("Enter a number="))
+# for i in range(1,n+1):
+#     print("#"*n) 
+
+# for i in range(1,4):
+#     print(i)
+#     for j in range(10,14):
+#      print(j)
+
+# n=int(input("Enter a num="))
+# num=0
+# for i in range(1,n+1):
+#     for j in range(i):
+#         print(num,end="")
+#         num += 1
+#     print()
+
+
+    
 
 
      
